@@ -2140,3 +2140,67 @@ Purging the undo buffer...
 [2021.02.11-08.43.38:139][920]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.11-08.43.38:139][920]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/AliceSmall.AliceSmall
 [2021.02.11-08.43.38:139][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/AliceSmall_BuiltData.AliceSmall_BuiltData
+[2021.02.11-08.44.14:765][618]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.02.11-08.53.47:971][441]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.02.11-08.54.57:437][235]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.02.11-08.54.57:537][246]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.02.11-08.54.58:396][333]LogEditorViewport: Clicking Background
+[2021.02.11-08.54.59:412][454]LogEditorViewport: Clicking Background
+[2021.02.11-08.55.51:129][992]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.55.51:131][992]LogMaterial: Display: Missing cached shader map for material 1stTerrain_Mat, compiling. 
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 44
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 42
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 40
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 38
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 36
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 34
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 32
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 30
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 28
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 26
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 24
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 22
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 20
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 18
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 16
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 14
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 12
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 10
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 8
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 6
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2021.02.11-08.55.51:193][993]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 2
+[2021.02.11-08.56.04:396][487]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.04:396][487]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.04:398][487]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.56.09:741][ 52]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.09:741][ 52]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.09:743][ 52]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.56.10:014][ 62]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.10:014][ 62]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.10:016][ 62]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.56.10:331][ 66]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.10:331][ 66]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.10:333][ 66]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.56.10:539][ 85]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.10:539][ 85]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.10:545][ 85]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.56.41:070][498]Cmd: TRANSACTION UNDO
+[2021.02.11-08.56.41:070][498]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.02.11-08.56.41:073][498]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.57.16:258][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.02.11-08.57.16:283][346]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.11-08.57.16:286][346]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.02.11-08.57.16:286][346]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.02.11-08.57.16:351][346]LogSavePackage: Moving '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/AliceSmall_Auto309D81DE641DDA182D3828895E7B601ED.tmp' to '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/Autosaves/Game/ThirdPersonBP/Maps/AliceSmall_Auto3.umap'
+[2021.02.11-08.57.16:353][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/AliceSmall' took 0.113
+[2021.02.11-08.57.16:353][346]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2021.02.11-08.57.16:353][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/UI/mad_emoji] ([1] browsable assets)...
+[2021.02.11-08.57.16:357][346]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/UI/mad_emoji.mad_emoji]
+[2021.02.11-08.57.16:357][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/mad_emoji]
+[2021.02.11-08.57.16:361][346]LogSavePackage: Moving '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/mad_emoji_Auto30EAD93AA4BA651E6262D89866E6A48E7.tmp' to '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/Autosaves/Game/ThirdPersonBP/UI/mad_emoji_Auto3.uasset'
+[2021.02.11-08.57.16:362][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/UI/ill_emoji] ([1] browsable assets)...
+[2021.02.11-08.57.16:366][346]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/UI/ill_emoji.ill_emoji]
+[2021.02.11-08.57.16:366][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/ill_emoji]
+[2021.02.11-08.57.16:369][346]LogSavePackage: Moving '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/ill_emoji_Auto32D1256374403BBC7E59AE18F4AC3234D.tmp' to '../../../../../University/classes/Year 1/Semester 2/3D Game Programming/Alice/Saved/Autosaves/Game/ThirdPersonBP/UI/ill_emoji_Auto3.uasset'
+[2021.02.11-08.57.16:371][346]LogFileHelpers: Auto-saving content packages took 0.018
